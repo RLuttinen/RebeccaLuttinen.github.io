@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs  
 
+website:
+  site-url: https://rluttinen.github.io/RebeccaLuttinen.github.io/
+
 format:
   html:
     theme: none

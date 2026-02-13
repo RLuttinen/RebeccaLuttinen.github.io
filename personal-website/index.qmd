@@ -3,6 +3,7 @@ title: "My Personal Website"
 author: "Rebecca Luttinen"
 format: html
 layout: default
+image: "images/profheadshot.JPG"
 ---
 
 \![\](images\\profheadshot.JPG)
