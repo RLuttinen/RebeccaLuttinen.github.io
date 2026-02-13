@@ -1,0 +1,5 @@
+remote_theme: RLuttinen/cayman
+title: Rebecca Luttinen
+description: R. Luttinen personal website
+plugins:
+  - jekyll-remote-theme

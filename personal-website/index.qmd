@@ -7,7 +7,6 @@ layout: default
 
 ::: {#fig-headshot}
 \![\](images/profheadshot.JPG){width=300px}
-
 :::
 
 # Rebecca Lynn Luttinen

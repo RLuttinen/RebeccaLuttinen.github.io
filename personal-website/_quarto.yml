@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rebecca Luttinen"
+  site-url: https://rluttinen.github.io/RebeccaLuttinen.github.io/
+
+format:
+  html:
+    theme: cosmo
+    minimal: false  
+
+resources:
+  - images/
