@@ -6,3 +6,6 @@ format:
   html:
     theme: none
     minimal: true
+
+resources:
+  - images/

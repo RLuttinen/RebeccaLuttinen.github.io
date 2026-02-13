@@ -1,7 +1,11 @@
 ---
 title: "My Personal Website"
 author: "Rebecca Luttinen"
+format: html
+layout: default
 ---
+
+\![\](images\\profheadshot.JPG)
 
 # Rebecca Lynn Luttinen
 
