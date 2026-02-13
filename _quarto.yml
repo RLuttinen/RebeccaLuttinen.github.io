@@ -3,16 +3,13 @@ project:
   output-dir: docs
 
 website:
+  title: "Rebecca Luttinen"
   site-url: https://rluttinen.github.io/RebeccaLuttinen.github.io/
 
 format:
   html:
-    theme: none
-    minimal: true
-    # This ensures Quarto doesn't inject its own CSS that breaks Cayman
-    include-in-header: 
-      text: |
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css">
+    theme: cosmo
+    minimal: false  
 
 resources:
   - images/
