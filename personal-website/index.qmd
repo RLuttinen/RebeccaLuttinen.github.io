@@ -1,9 +1,10 @@
 ---
 title: "My Personal Website"
-author: "Rebecca Luttinen"
 format: html
 layout: default
 ---
+
+![](images/clipboard-2724540506.jpeg)
 
 # Rebecca Lynn Luttinen
 
