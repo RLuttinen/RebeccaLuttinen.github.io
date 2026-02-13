@@ -1,9 +1,7 @@
 ---
-title: "personal-website"
-image: "image.jpg"
+title: "My Personal Website"
+author: "Rebecca Luttinen"
 ---
-
-!(images/profheadshot.JPG)
 
 # Rebecca Lynn Luttinen
 
