@@ -1,12 +1,14 @@
 ---
-title: "My Personal Website"
+title: "Rebecca Lynn Luttinen"
 format: html
 layout: default
 ---
 
-![](images/clipboard-2724540506.jpeg)
+::: column-margin
+![](images/clipboard-2724540506.jpeg){fig-align="left" width="521"}
+:::
 
-# Rebecca Lynn Luttinen
+# Welcome to my personal website!
 
 My name is Rebecca (Becca) Luttinen. I am a PhD candidate in Applied Demography at the [University of Texas at San Antonio.](https://hcap.utsa.edu/sociology-and-demography/) I also work as a researcher at the [Institute of Social Research and Data Innovation](https://isrdi.umn.edu/).
 
