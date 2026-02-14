@@ -1,5 +1,6 @@
-remote_theme: RLuttinen/cayman
+project:
+  type: website
+  output-dir: docs
 title: Rebecca Luttinen
 description: R. Luttinen personal website
-plugins:
-  - jekyll-remote-theme
+
