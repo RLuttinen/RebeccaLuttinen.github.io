@@ -1,10 +1,9 @@
 project:
   type: website
-  output-dir: .
 
 website:
   title: "Rebecca Luttinen"
-  site-url: https://rebeccaluttinen.github.io/
+  site-url: https://rluttinen.github.io/RebeccaLuttinen.github.io/
 
 format:
   html:
