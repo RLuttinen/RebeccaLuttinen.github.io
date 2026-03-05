@@ -3,7 +3,8 @@ project:
 
 website:
   title: "Rebecca Luttinen"
-  site-url: https://RebeccaLuttinen.github.io/
+  site-url: https://rluttinen.github.io/RebeccaLuttinen.github.io/
+  site-path: "/RebeccaLuttinen.github.io/"
 
 format:
   html:
